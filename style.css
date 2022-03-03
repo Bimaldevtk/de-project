@@ -215,8 +215,7 @@ h1{
     margin: auto;
     position: relative;
     top: 210px;
-    po;d
-    margin: 25px 0;
+    /* margin: 25px 0; */
     font-size: 0.9em;
     min-width: 400px;
     border-radius: 5px 5px 0 0;
@@ -348,7 +347,6 @@ h1{
 }
 .middle{
    
-    margin-: 300px;
     
     height: 2px
 }
